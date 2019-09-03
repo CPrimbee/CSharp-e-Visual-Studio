@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrocaDeValores", "TrocaDeVa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestoDaDivisao", "RestoDaDivisao\RestoDaDivisao.csproj", "{C8569A45-BFA0-439E-B747-6F914DE86233}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastoEmRestaurante", "GastoEmRestaurante\GastoEmRestaurante.csproj", "{F79A00CB-4848-44CB-B8D0-EC2C36756711}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C8569A45-BFA0-439E-B747-6F914DE86233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8569A45-BFA0-439E-B747-6F914DE86233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8569A45-BFA0-439E-B747-6F914DE86233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79A00CB-4848-44CB-B8D0-EC2C36756711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79A00CB-4848-44CB-B8D0-EC2C36756711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79A00CB-4848-44CB-B8D0-EC2C36756711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79A00CB-4848-44CB-B8D0-EC2C36756711}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
